@@ -1,0 +1,37 @@
+ body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  background: linear-gradient(to right, #fff6f2, #ffe0d2);
+  
+  border-radius: 0 0 20px 20px;
+}
+
+.banner-content {
+  flex: 1;
+  padding: 30px 80px;
+}
+
+.banner-content h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #222;
+  line-height: 1.4;
+}
+
+.banner-image {
+  flex: 1;
+  text-align: right;
+}
+
+.banner-image img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}

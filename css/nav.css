@@ -1,0 +1,36 @@
+ .navbar-gradient {
+          background: linear-gradient(to bottom, #f58220 -18%, #b02a30 127%);
+    }
+
+    
+    .navbar .nav-link,
+    .navbar .navbar-brand {
+      color: white !important;
+      height: 40px;
+    }
+
+    
+    .dropdown:hover .dropdown-menu {
+      display: block;
+      margin-top: 0;
+    }
+
+    
+    .dropdown-menu {
+      background-color: #fff;
+    }
+
+    .dropdown-menu .dropdown-item {
+      color: #000;
+    }
+
+    .dropdown-menu .dropdown-item:hover {
+      background-color: #f1f1f1;
+    }
+
+    
+    .navbar-brand img {
+      height: 35px;
+     
+    
+    }

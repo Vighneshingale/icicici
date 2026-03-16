@@ -1,0 +1,27 @@
+ footer{
+    background-color: #ECE9E9;
+    color: #282828;
+}
+.top-footer > h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 1.5rem;
+}
+li{
+    list-style: none;
+    margin-bottom: 10px;
+    padding-left: 0;
+}
+.top-footer >ul >li >a{
+    text-decoration: none;
+    color: #282828;
+}
+.top-footer >ul >li >a:hover{
+    color: #EC6625;
+}
+.bootom-footer > .left-side-btm-footer, .right-side-btm-footer > p{
+    font-size: 12px;
+}
+.bootom-footer > .left-side-btm-footer > h5{
+    font-size: 15px;
+}
